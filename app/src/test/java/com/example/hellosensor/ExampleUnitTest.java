@@ -1,4 +1,4 @@
-package com.example.hellosensor;
+package com.example.HelloSensor;
 
 import org.junit.Test;
 
